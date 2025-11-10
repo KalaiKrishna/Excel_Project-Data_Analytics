@@ -8,9 +8,9 @@ Each project is based on real-world datasets and focuses on exploring insights t
 
 ### 🔹Excel Salary Dashboard
 
-**Goal:** Create an interactive dashboard to visualize salary trends across job roles and countries.  
+**Goal:** Create an interactive dashboard to visualize salary trends across job roles and countries.
 
-**Key Highlights:**  
+**Key Highlights:**
 
 - Built dynamic charts and maps to explore salary by job title and country
 - Used formulas, data validation, and array functions for interactivity
@@ -21,15 +21,16 @@ Each project is based on real-world datasets and focuses on exploring insights t
   - **Data Validation**
   - **Dashboard Design**
 
-📄 [Read More →](./Salary-Dashboard/README.md)
+📄 [Read More →](./Salary_Dashboard/README.md)
 
 ---
 
-### 🔹Data Analysis : Exploring the Data Science Job Market  
+### 🔹Data Analysis : Exploring the Data Science Job Market
 
-**Goal:** Analyze job titles, skills, and salaries to identify patterns in the data science job market.   
+**Goal:** Analyze job titles, skills, and salaries to identify patterns in the data science job market.
 
 **Key Highlights:**
+
 - Explored the relationship between skills and salary levels
 - Compared regional pay gaps across job roles
 - Identified top skills (Python, SQL, Cloud tools) driving higher pay
@@ -39,7 +40,7 @@ Each project is based on real-world datasets and focuses on exploring insights t
   - **DAX**
   - **Pivot Charts**
 
-📄[Read More →](./Data-Analysis/README.md)
+📄[Read More →](./Data_Analysis/README.md)
 
 ---
 
@@ -54,13 +55,14 @@ Each project is based on real-world datasets and focuses on exploring insights t
 | Interactivity | Data Validation, Filters, Slicers      |
 
 ---
+
 ## 🧠 Learning Goals
 
 Through these projects, I aim to:
 
-* Strengthen **Excel as a data analytics tool**
-* Develop **data driven storytelling** through dashboards
-* Showcase **real world analytics workflows** for career growth
+- Strengthen **Excel as a data analytics tool**
+- Develop **data driven storytelling** through dashboards
+- Showcase **real world analytics workflows** for career growth
 
 ---
 
