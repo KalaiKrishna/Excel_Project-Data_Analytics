@@ -1,10 +1,32 @@
-# Excel_Project-Data_Analytics
+# Excel Data Analytics Portfolio
 
 Welcome to my **Excel Data Analytics Portfolio** - a collection of projects that demonstrate how powerful Excel can be for data cleaning, analysis, and dashboard creation.
 
 Each project is based on real-world datasets and focuses on exploring insights through data storytelling, visualization, and decision-driven analysis.
 
 ## 📘 Projects Overview
+
+### 🔹Bike Sales Dashboard
+
+**Goal:** Analyze demographic and lifestyle attributes to uncover patterns influencing customer decisions to purchase a bike.
+
+**Key Highlights:**
+
+- Identified demographic groups more likely to purchase a bike
+- Analyzed how income levels vary across customer segments
+- Explored age-based behavioral trends impacting buying decisions
+- Examined commute habits and their correlation with purchase likelihood
+
+**Excel Skills Used:**
+
+- **Pivot Tables**
+- **Pivot Charts**
+- **Slicers**
+- **Formulas & Data Cleaning**
+
+📄 [Read More →](./Bike_Sales_Dashboard/README.md)
+
+---
 
 ### 🔹Excel Salary Dashboard
 
@@ -68,10 +90,11 @@ Through these projects, I aim to:
 
 ## 📸 Visual Preview
 
-| Project              | Preview                                                       |
-| -------------------- | ------------------------------------------------------------- |
-| **Salary Dashboard** | ![Dashboard](./Images/1_Salary_Dashboard_Final_Dashboard.gif) |
-| **Data Analysis**    | ![Data Analysis](./Images/2_Project_Analysis_Chart1.png)      |
+| Project                  | Preview                                                                  |
+| ------------------------ | ------------------------------------------------------------------------ |
+| **Bike Sales Dashboard** | ![Bike Sales Dashboard](./Bike_Sales_Dashboard/Bike-Sales-Dashboard.png) |
+| **Salary Dashboard**     | ![Dashboard](./Images/1_Salary_Dashboard_Final_Dashboard.gif)            |
+| **Data Analysis**        | ![Data Analysis](./Images/2_Project_Analysis_Chart1.png)                 |
 
 ---
 
